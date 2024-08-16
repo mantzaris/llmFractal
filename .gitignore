@@ -1,0 +1,16 @@
+# Ignore the virtual environment directory
+menv/
+./menv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore the plots directory and its contents
+plots/
+./plots/*
+
+# Ignore other typical Python-related files
+*.log
+*.env
