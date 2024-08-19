@@ -14,3 +14,6 @@ plots/
 # Ignore other typical Python-related files
 *.log
 *.env
+
+
+.env
